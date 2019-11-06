@@ -1,11 +1,11 @@
 #usr/bin/bash
 clear
-bi='\033[34;1m' #biru
+bi='\033[34;1m' #birumuda
 i='\033[32;1m' #ijo
 pur='\033[35;1m' #purple
 cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
-pu='\033[37;1m' #putih
+pu='\033[37;1m' #hijau
 ku='\033[33;1m' #kuning
 # Jangan Recode Ya gayn
 echo
@@ -14,18 +14,18 @@ echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
+echo $i" |"$pu" AUTHOR :"$ku" R4hu1 4ndre4s5  [Anonymous]"$i"        |"
 echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 082296615911"$i"             |"
+echo $i" |"$pu" Contack Gmail :"$ku" rahulandreas1999@gmail.com"$i"  |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
 echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" B"$i" |"
 echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB iqbalz     "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB 4ndre4s5    "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
 echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE N1ght420       "$i"|"$i"    |"$cy" K"$i" |"
 echo $i"|"$me" 6"$i" |"$cy" BRUTEFORCE FB ( root )   "$i"|"$i"    |"$cy" E"$i" |"
@@ -47,14 +47,14 @@ echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" E"$i" |
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
-echo $me"┌==="$bi"["$i"FR13ND8"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"Anonymous"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
 if [ $pil = 1 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "4ndre4s5"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/fbbrute
 cd fbbrute
@@ -64,7 +64,7 @@ fi
 if [ $pil = 2 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "4ndre4s5"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/Fb-Cracker-v.3
 cd Fb-Cracker-v.3
@@ -74,7 +74,7 @@ fi
 if [ $pil = 3 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "4ndre4s5"|lolcat
 sleep 1
 git clone https://github.com/IqbalzNoobs/fb-brute
 cd fb-brute
@@ -84,7 +84,7 @@ fi
 if [ $pil = 4 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "4ndre4s5"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/mbf
 cd mbf
@@ -94,7 +94,7 @@ fi
 if [ $pil = 5 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "4ndre4s5"|lolcat
 sleep 1
 git clone https://github.com/N1ght420/FaceBrute
 cd FaceBrute
@@ -255,8 +255,8 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
+echo $ku"WhatsApp :"$i" 082296615911"
+echo $ku"Facebook :"$i" R4hu1 4ndre4s5"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
