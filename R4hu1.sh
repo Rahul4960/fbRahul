@@ -15,7 +15,7 @@ echo $i"["$bi"•"$i"]"$me"─────────────────�
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" R4hu1 4ndre4s5  [Anonymous]"$i"        |"
-echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
+echo $i" |"$pu" FACEBOOK :"$ku" Andreas"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
 echo $i" |"$pu" Contack WhatsApp :"$ku" 082296615911"$i"             |"
